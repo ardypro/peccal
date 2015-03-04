@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1425472157 source:c:\users\ardypro\documents\cplusplus\peccalculator\main.cpp
+	<iostream>
+	"Crc8.h"
+	"cstdio"
+	"conio.h"
+	<windows.h>
+
+1425442127 c:\users\ardypro\documents\cplusplus\peccalculator\crc8.h
+	<iostream>
+
+1423561649 source:c:\users\ardypro\documents\cplusplus\peccalculator\crc8.cpp
+	"Crc8.h"
+
